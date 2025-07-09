@@ -131,4 +131,37 @@
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+.five{
+    text-align: center;
+    margin: 150px 300px;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.chobi{
+    justify-content: space-between
+}
+.gift{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: -900px;
+    margin-bottom: 150px;
+}
+.discount{
+    margin-right: -800px;
+    margin-bottom: 300px;
+    width: 200px;
+    margin-left:300px ;
+}
+.five h1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+.five span{
+    color: #FF0000;
+}
+.five p{
+    color:#07021179;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
