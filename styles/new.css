@@ -1,0 +1,70 @@
+.header{
+    background-image: url(../images/Banner\ Image.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.header p {
+    color:white ;
+    font-size: 40px;
+    
+}
+.header h3 {
+    color: white;
+    font-size:70px ;
+    margin-top: -10px;
+
+}
+.one {
+    margin: 30px auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.one h2{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.one p{
+    font-size: 24px;
+    color: #FF0000;}
+.one h3{
+    font-size: 48px;
+    margin-top: -10px;
+}
+.two{
+    background-image: url(../images/Vectorrr.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height:600px ;
+    margin: 200px auto;
+    display: flex;
+    
+}
+.two h1{
+    color: white;
+    font-size: 64px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 45px;
+}
+.two p{
+    padding: 25px;
+    color: white;
+    padding: 0 45px  ;
+
+}
+.two h2{
+    font-size: 20px;
+    border: none;
+    color: white;
+    padding: 55px;
+    margin-top: -20px;
+}
